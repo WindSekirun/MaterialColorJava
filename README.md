@@ -10,7 +10,7 @@ Simple, and Fast!
 
 ```Material.getMaterialRedColor(int consist);```
   
-```Support Color: Red, Pink, Purple, Dark Purple, Indigo, Blue, Light Blue, Cyan, 
+Support Color: ```Red, Pink, Purple, Dark Purple, Indigo, Blue, Light Blue, Cyan, 
                  Teal, Green, Light Green, Lime, Yellow, Amber, Orange, Deep Orange, Brown, Gray, 
                 Blue Gray, Black, White```
 
