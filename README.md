@@ -8,15 +8,15 @@ Porting Material Color Palette to JAVA Code.
 
 Simple, and Fast!
 
-  Material.getMaterialRedColor(int consist);
+```Material.getMaterialRedColor(int consist);```
   
-  Support Color: Red, Pink, Purple, Dark Purple, Indigo, Blue, Light Blue, Cyan, 
+```Support Color: Red, Pink, Purple, Dark Purple, Indigo, Blue, Light Blue, Cyan, 
                  Teal, Green, Light Green, Lime, Yellow, Amber, Orange, Deep Orange, Brown, Gray, 
-                Blue Gray, Black, White
+                Blue Gray, Black, White```
 
 for Accent Color
 
-  Material.getMaterialRedAccentColor(int consist):
+  ```Material.getMaterialRedAccentColor(int consist);```
   
 consist: 50~900
 
